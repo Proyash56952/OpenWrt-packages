@@ -10,11 +10,11 @@ Categories:
 
 ## Installation
 
-1. Install [OpenWrt build system](https://openwrt.org/docs/guide-developer/build-system/install-buildsystem), branch `openwrt-18.06`.
+1. Install [OpenWrt build system](https://openwrt.org/docs/guide-developer/build-system/install-buildsystem), branch `openwrt-15.05.1`.
 
 2. Create `feeds.conf` in OpenWrt directory, and paste the following:
 
-        src-git yoursunny https://github.com/yoursunny/OpenWrt-packages.git
+        src-git yoursunny https://github.com/Proyash56952/openwrt-packages
 
    Alternatively, if this repository has been cloned locally, use something like:
 
