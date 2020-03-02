@@ -10,7 +10,7 @@ Categories:
 
 ## Installation
 
-1. Install [OpenWrt build system](https://openwrt.org/docs/guide-developer/build-system/install-buildsystem), branch `openwrt-15.05.1`.
+1. Install [OpenWrt build system](https://openwrt.org/docs/guide-developer/build-system/install-buildsystem), branch `openwrt-15.05.1`. While downloading/cloning the source code, use the [openwrt-15.05.1](https://github.com/openwrt/chaos_calmer/tree/v15.05.1)
 
 2. Create `feeds.conf` in OpenWrt directory, and paste the following:
 
